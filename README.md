@@ -10,7 +10,7 @@
 <li>🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Data Analysis and Visualization, and Web Development.</li>
 <li>💡 &nbsp;I like to explore new technologies and develop creative software solutions to enhance user experience.</li>
 <li>✍️ &nbsp;I am a published poetess and enjoy listening to new music in my freetime. My latest :repeat: song is <a href="https://www.youtube.com/watch?v=AcTDlsUej2w&list=RDfVeD9vWCpZ8&index=6">Come Back Home by Sofia Carson.</a> </li>
-<li>:page_facing_up: &nbsp;Here is my <a href="https://github.com/Hinal-Srivastava/hinalsrivastava/files/9388625/My.Resume.2.0.pdf">Résumé.</a> </li>
+<li>:page_facing_up: &nbsp;Here is my <a href="https://drive.google.com/file/d/1JCKBLFXLDCnk2THbuKZY0OZUanvPAiox/view?usp=sharing">Résumé.</a> </li>
 <li>:chess_pawn: &nbsp;Also, come over if you want to play a game of <a href="https://www.chess.com/home">chess.</a> And don't worry, I'm a rookie:joy: </li>
 </ul>
 
