@@ -52,6 +52,7 @@
 <a target="_blank" href="mailto:hinalsri@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
 <a target="_blank" href="https://github.com/Hinal-Srivastava"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
 <a target="_blank" href="https://www.kaggle.com/hinalsrivastava"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="Kaggle"></a>
+<a target="_blank" href="https://www.hackerrank.com/hinalsri?hr_r=1"><img src="https://img.shields.io/badge/HackerEarth-%232C3454.svg?&style=for-the-badge&logo=HackerEarth&logoColor=Blue" alt="HackerRank"></a>
 <a target="_blank" href="https://www.youtube.com/channel/UC_n6TLwzdtoSHbR_17Yw2ew"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"></a>
 <a target="_blank" href="https://www.instagram.com/hinal_srivastava/"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
 <a target="_blank" href="https://www.instagram.com/hinal_srivastava/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
