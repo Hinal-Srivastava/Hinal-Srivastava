@@ -4,13 +4,12 @@
 ## :woman_technologist: &nbsp;About Me
 <ul>
 <li>:raising_hand_woman: &nbsp;She/Her </li>
-<li>:round_pushpin: &nbsp;Currently based in <a href="https://www.google.com/maps/place/Noida,+Uttar+Pradesh/@28.5166817,77.2610797,11z/data=!3m1!4b1!4m5!3m4!1s0x390ce5a43173357b:0x37ffce30c87cc03f!8m2!3d28.5355161!4d77.3910265">Noida, India.</a> </li>
-<li>🎓 &nbsp;I'm a recent engineering graduate from Amity University, Noida :india:. I majored in Computer Science and now am preparing for pursuing MSc. Data Science from The University of Sheffield :uk:.</li>
+<li>:round_pushpin: &nbsp;Currently based in <a href="https://www.google.com/maps/place/Sheffield,+UK/@53.3958079,-1.6642647,11z/data=!3m1!4b1!4m6!3m5!1s0x48790aa9fae8be15:0x3e2827f5af06b078!8m2!3d53.381129!4d-1.470085!16zL20vMG03NWc?entry=ttu">Sheffield, United Kingdom.</a> </li>
+<li>🎓 &nbsp;I'm a recent data science graduate from The University of Sheffield :uk:. I did my bachelors in Computer Science Engineering from Amity University, Noida 🇮🇳 and now am actively looking for job opportunites.</li>
 <li>:woman_office_worker: &nbsp; I have worked as an intern at Samsung R&D:india:, TISPL and, The Sparks Foundation:singapore:.</li>
-<li>🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Data Analysis and Visualization, and Web Development.</li>
+<li>🌱 &nbsp;I'm on track for learning more about Artificial Intelligence and Data Analysis and Visualization.</li>
 <li>💡 &nbsp;I like to explore new technologies and develop creative software solutions to enhance user experience.</li>
-<li>✍️ &nbsp;I am a published poetess and enjoy listening to new music in my freetime. My latest :repeat: song is <a href="https://www.youtube.com/watch?v=AcTDlsUej2w&list=RDfVeD9vWCpZ8&index=6">Come Back Home by Sofia Carson.</a> </li>
-<li>:page_facing_up: &nbsp;Here is my <a href="https://drive.google.com/file/d/1xjpflnAB50Mfv_uqcYZFP4KeUkcmMfVr/view?usp=sharing">Résumé.</a> </li>
+<li>✍️ &nbsp;I am a published poetess and enjoy listening to new music in my freetime. My latest :repeat: song is <a href="https://www.youtube.com/watch?v=S_KUxsFPpp8">Maybe my Soulmate Died by Shane 🤣</a> </li>
 <li>:chess_pawn: &nbsp;Also, come over if you want to play a game of <a href="https://www.chess.com/home">chess.</a> And don't worry, I'm a rookie:joy: </li>
 </ul>
 
